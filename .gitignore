@@ -1,0 +1,7 @@
+*.out
+*__pycache__
+.*
+!.gitignore
+!.agignore
+*.pyc
+*.pyo
